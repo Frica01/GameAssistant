@@ -2,29 +2,35 @@
 ## 项目简介
 玩咸鱼之王小游戏时候，发现无法后台挂机，于是产生了这个项目。
 
-使用了PySide6/PyQT将该Python项目封装成一个GUI小工具！
+使用了 `PySide6/PyQT` 将该 `Python` 项目封装成一个GUI小工具！
 
 
 
 ## 项目展示
 
+
+
+
+
+<font color='bluesky' size=5> **工具展示**</font>
+
+![](image/工具展示.gif)
+
+
+
 ###  <font color='bluesky' size=5> 鼠标连机器</font>
 
-- 使用非常简单，输入 `每秒点击次数`，然后按下键盘的 `Ctrl + Shift + A` 即可。
-
-![image-20230616142254612](image/image-20230616142254612.png)
+- 使用非常简单，输入 `每秒点击次数`，然后按下键盘的 `Ctrl + Shift + A` 即可；
 
 - 例如输入20，然后按下`Ctrl + Shift + A`（注意看左上角的 键盘显示器
 
-![GIF 2023-6-16 14-24-41](image/GIF 2023-6-16 14-24-41.gif)
+![](image/鼠标连击展示.gif)
 
 ### <font color='bluesky' size=5>后台挂机器</font>
 
 - 使用非常简单，输入 `咸鱼之王`，然后点击 隐藏窗口即可。
 
-![image-20230616142309230](image/image-20230616142309230.png)
-
-![GIF 2023-6-16 13-47-32](image/GIF 2023-6-16 13-47-32.gif)
+![](image/Windows窗口操作展示.gif)
 
 
 
